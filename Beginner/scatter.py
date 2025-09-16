@@ -19,8 +19,8 @@ plt.scatter(x1, y1, label="Dataset2")
 
 # Adding title and axis labels
 plt.title("Epic info")
-plt.xlabel('Y axis')
-plt.ylabel('x axis')
+plt.xlabel('X axis')
+plt.ylabel('Y axis')
 
 # Legend (shows which points belong to which dataset)
 plt.legend()
