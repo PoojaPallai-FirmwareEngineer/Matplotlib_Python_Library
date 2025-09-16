@@ -1,4 +1,4 @@
-# Plotting Line Graphs in Matplotlib with ggplot Style
+# Program:Plotting Line Graphs in Matplotlib with ggplot Style
 
 from matplotlib import pyplot as plt 
 import matplotlib.style as mplstyle
