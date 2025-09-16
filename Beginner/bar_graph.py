@@ -20,8 +20,8 @@ plt.bar(x1, y1, color='c', label='Bar Two', align='center') # 'c' = cyan bars, l
 
 # Add title and axis labels
 plt.title("Epic info")
-plt.xlabel('Y axis')
-plt.ylabel('x axis')
+plt.xlabel('X axis')
+plt.ylabel('Y axis')
 
 # Add legend and grid
 plt.legend()                # Display legend for the bars
